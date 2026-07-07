@@ -1,0 +1,1 @@
+Una plataforma de interacción multimedia orientada al intercambio de recursos creativos y educativos en el campo de la producción musical. programado y diseñado por Eduardo Villalpando y Diego Tinajero.
